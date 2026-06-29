@@ -4,11 +4,6 @@
 
 **A repo assistant that remembers your codebase — not just searches it.**
 
-[
-[
-[
-[
-[
 
 [Overview](#overview) · [Features](#features) · [Architecture](#architecture) · [Getting Started](#getting-started) · [Usage](#usage) · [Project Structure](#project-structure) · [Contributing](#contributing)
 
